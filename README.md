@@ -1,5 +1,5 @@
 ## Introduction
-This project illustrates how a menu can become a key element in creating an exceptional user experience, meeting the highest standards. Thanks to Framer Motion and Next.js, we have successfully created a menu that is not only performant but also visually captivating. Future prospects include the integration of advanced features, such as user personalization and the addition of micro-interactions to further enhance the user experience
+This project illustrates how a menu can become a key element in creating an exceptional user experience, meeting the highest standards. Thanks to Framer Motion and Next.js, we have successfully created a menu that is not only performant but also visually captivating. Future prospects include the integration of advanced features, such as user personalization and the addition of micro-interactions to further enhance the user experience.
 
 
 
