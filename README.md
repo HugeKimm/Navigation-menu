@@ -19,3 +19,12 @@ pnpm dev
 bun dev
 ```
 
+We will use Sass for the stylesheets, so we can run 
+```bash
+npm i sass.
+```
+We will use Framer Motion for the animation, so we can run 
+```bash
+npm i framer-motion.
+```
+
